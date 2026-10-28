@@ -63,7 +63,7 @@ data papan klip. Anda melakukan ini dengan risiko Anda sendiri.</string>
     <string name="label_wallet_default">Dompetku</string>
     <string name="label_readonly_wallet_default">Dompetku (Hanya baca)</string>
     <string name="hint_signing_request">Harap pindai permintaan penandatanganan dari yang sesuai
-Layar Kirim dana Wallet.</string>
+Layar Kirim dana dompet.</string>
     <string name="hint_readonly_signing_request">Anda memindai permintaan penandatanganan, tetapi dompetnya
 atur sebagai hanya baca. Harap pulihkan dengan mnemonik Anda.</string>
     <string name="error_qr_code_content_unknown">Kode QR yang dipindai bukan dari format yang dikenal.</string>
@@ -153,7 +153,7 @@ Ini adalah satu-satunya cara untuk mengakses dompet saya jika kunci yang disimpa
     <string name="tx_state_low_confirmations">Dieksekusi</string>
     <string name="tx_state_high_confirmations">Dikonfirmasi</string>
     <string name="tx_download_progress">%1$s transaksi diunduh</string>
-    <string name="transactions_load_all_desc">Akhir dari transaksi yang diunduh. Aplikasi Wallet dapat memuat ulang semua transaksi Anda. Ini mungkin memakan waktu lama.</string>
+    <string name="transactions_load_all_desc">Akhir dari transaksi yang diunduh. Aplikasi Dompet dapat memuat ulang semua transaksi Anda. Ini mungkin memakan waktu lama.</string>
     <string name="transactions_load_all_button">Muat semua transaksi</string>
     <string name="info_export">Berhasil mengekspor %1$s transaksi.\nJika Anda ingin mengekspor lebih banyak ke masa lalu, gulir daftar ke titik waktu.</string>
 
@@ -386,7 +386,7 @@ Pindai kode QR ini untuk melanjutkan.</string>
     <string name="button_dark_mode_day">Terang</string>
     <string name="button_dark_mode_night">Gelap</string>
     <string name="desc_token_settings">Pengaturan Token dan NFT</string>
-    <string name="desc_token_verification">Ergo Wallet memverifikasi keaslian token dengan menggunakan layanan <a href="https://www.tokenjay.app">TokenJay</a>.
+    <string name="desc_token_verification">Dompet Ergo memverifikasi keaslian token dengan menggunakan layanan <a href="https://www.tokenjay.app">TokenJay</a>.
       Anda dapat menyetel untuk menggunakan layanan lain di\n\'Koneksi Node dan API\'.</string>
     <string name="desc_expert_settings">Pengaturan Lanjutan</string>
     <string name="button_connection_settings">Koneksi node dan API</string>
